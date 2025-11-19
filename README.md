@@ -75,3 +75,8 @@ The objective is to uncover meaningful insights, understand usage behavior, iden
 ---
 
 ## 🔍 Dashboard Views
+
+## All Transaction
+
+<img width="1073" height="733" alt="Transaction" src="https://github.com/user-attachments/assets/bb085f39-fcd4-400f-88e7-f23b7ad112e7" />
+
