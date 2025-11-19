@@ -80,3 +80,28 @@ The objective is to uncover meaningful insights, understand usage behavior, iden
 ---
 
 
+## 🧭 Recommendations
+
+## ★ PLATFORM IMPROVEMENTS
+
+● Add smart retry system
+
+● Add balance pre-check
+
+● Improve gateway routing
+
+## ★ USER ENGAGEMENT
+
+● Offer personalized service suggestions
+
+● Introduce cashback/loyalty rewards
+
+● Show monthly spending summaries
+
+## ★ LOANS & INSURANCE GROWTH
+
+● Simplify application flow
+
+● Add renewal reminders
+
+● Provide personalized loan eligibility notifications
