@@ -8,20 +8,16 @@ The objective is to uncover meaningful insights, understand usage behavior, iden
 
 ---
 
+
 🎯 Objectives
 
-Analyze overall user activity and growth trends.
-
-Understand transaction behavior across different services.
-
-Identify reasons behind transaction failures.
-
-Study adoption patterns of loans and insurance services.
-
-Generate actionable insights to improve customer experience.
-
-Build a scalable analytical structure for dashboards or ML models.
-
-Provide clear recommendations for business and system improvements.
+● Analyze overall PhonePe user behavior and usage trends
+● Understand transaction patterns across all services
+● Identify common reasons for payment failures
+● Study growth and adoption of recharge, bill, loan, and insurance services
+● Generate useful insights for platform improvements
+● Improve user experience using data-driven findings
+● Create a scalable analysis workflow for dashboards and ML models
+● Prepare a structured, professional project layout for reporting
 
 ---
