@@ -73,3 +73,5 @@ The objective is to uncover meaningful insights, understand usage behavior, iden
   - Accelerate and simplify digital KYC verification.
 
 ---
+
+## 🔍 Dashboard Views
