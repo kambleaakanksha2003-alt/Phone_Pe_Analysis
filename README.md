@@ -30,7 +30,24 @@ The objective is to uncover meaningful insights, understand usage behavior, iden
 ---
 
 🔍 Key Insights
+
 User Insights
 
 ● Majority of users fall within the 18–35 age group
+
 ● User onboarding grows steadily, reflecting platform trust and popularity
+
+Transaction Insights
+
+● Recharges, bills, and money transfers are the most used services
+
+● High success rate overall
+
+● Failures mainly due to:
+
+● Network issues
+
+● Insufficient balance
+
+● Server timeouts
+
