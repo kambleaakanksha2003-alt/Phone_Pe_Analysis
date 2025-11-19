@@ -110,6 +110,13 @@ Data Modeling
 
 Data Cleaning
 
+---
+
+## 🎯 Conclusion
+
+This project provides a clear visual understanding of transaction patterns, user behavior, and service performance on the PhonePe platform.
+The Power BI dashboard helps transform raw data into meaningful business insights and decision-making support.
+
 
 
 
