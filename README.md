@@ -32,14 +32,14 @@ The objective is to uncover meaningful insights, understand usage behavior, iden
 ## 🔍 Key Insights
 
 
-## ⭐ USER INSIGHTS ✨
+## ⭐ USER ✨
 
 ● Majority of users fall within the 18–35 age group
 
 ● User onboarding grows steadily, reflecting platform trust and popularity
 
 
-## ★ TRANSACTION INSIGHTS
+## ★ TRANSACTION 
 
 ● Recharges, bills, and money transfers are the most used services
 
@@ -53,5 +53,30 @@ The objective is to uncover meaningful insights, understand usage behavior, iden
 
 ● Server timeouts
 
+## ★ RECHARGE & BILLS
+
+● Mobile recharge and electricity bill payments dominate
+
+● Failed transactions are quickly retried
+
+## ★ MONEY TRANSFER
+
+● Most transfers occur between frequently contacted users
+
+● High-value transfers show better success rates
+
+## ★ LOANS
+
+● Personal and small-credit loans have the highest demand
+
+● Rejections commonly caused by poor credit score, incomplete KYC, or eligibility mismatch
+
+## ★ INSURANCE
+
+● Health and vehicle insurance are the most popular
+
+● Premium payments show seasonal spikes
+
+---
 
 
