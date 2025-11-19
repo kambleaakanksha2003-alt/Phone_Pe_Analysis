@@ -38,7 +38,8 @@ The objective is to uncover meaningful insights, understand usage behavior, iden
 
 ● User onboarding grows steadily, reflecting platform trust and popularity
 
-Transaction Insights
+
+## ★ TRANSACTION INSIGHTS
 
 ● Recharges, bills, and money transfers are the most used services
 
@@ -51,4 +52,6 @@ Transaction Insights
 ● Insufficient balance
 
 ● Server timeouts
+
+
 
