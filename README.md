@@ -31,7 +31,7 @@ The objective is to uncover meaningful insights, understand usage behavior, iden
 
 🔍 Key Insights
 
-USER INSIGHTS
+⭐ USER INSIGHTS ✨
 
 ● Majority of users fall within the 18–35 age group
 
