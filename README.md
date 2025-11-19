@@ -96,6 +96,20 @@ The objective is to uncover meaningful insights, understand usage behavior, iden
 
 <img width="1078" height="737" alt="Insurance" src="https://github.com/user-attachments/assets/e655a720-6a7e-4b0e-a4fb-0b2bf0cbe9f6" />
 
+---
+
+## 🛠 Tools & Technologies Used
+
+Power BI
+
+DAX
+
+Excel
+
+Data Modeling
+
+Data Cleaning
+
 
 
 
