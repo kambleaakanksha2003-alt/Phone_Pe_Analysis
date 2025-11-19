@@ -29,79 +29,24 @@ The objective is to uncover meaningful insights, understand usage behavior, iden
 
 ---
 
-## 🔍 Key Insights
+## 🔍 Key Insights 
 
+- ★ **USER INSIGHTS**  
+  Majority of users belong to the 18–35 age group, indicating high digital adoption.
 
-## ⭐ USER ✨
+- ★ **TRANSACTION INSIGHTS**  
+  Recharges, bill payments, and money transfers make up the bulk of PhonePe usage. Failures primarily occur due to network issues or insufficient balance.
 
-● Majority of users fall within the 18–35 age group
+- ★ **RECHARGE & BILLS**  
+  Mobile recharges and electricity bill payments are the most common services. Many failed recharge/bill transactions are retried quickly.
 
-● User onboarding grows steadily, reflecting platform trust and popularity
+- ★ **MONEY TRANSFER**  
+  High-frequency transfers often happen between known users. Larger transfers have a higher success rate.
 
+- ★ **LOANS**  
+  Personal and small-credit loans are most used. Rejections mostly result from credit score issues or incomplete KYC.
 
-## ★ TRANSACTION 
-
-● Recharges, bills, and money transfers are the most used services
-
-● High success rate overall
-
-● Failures mainly due to:
-
-● Network issues
-
-● Insufficient balance
-
-● Server timeouts
-
-## ★ RECHARGE & BILLS
-
-● Mobile recharge and electricity bill payments dominate
-
-● Failed transactions are quickly retried
-
-## ★ MONEY TRANSFER
-
-● Most transfers occur between frequently contacted users
-
-● High-value transfers show better success rates
-
-## ★ LOANS
-
-● Personal and small-credit loans have the highest demand
-
-● Rejections commonly caused by poor credit score, incomplete KYC, or eligibility mismatch
-
-## ★ INSURANCE
-
-● Health and vehicle insurance are the most popular
-
-● Premium payments show seasonal spikes
+- ★ **INSURANCE**  
+  Health and vehicle insurance are the top categories. Premium payments show seasonal variation (e.g., festive peaks).
 
 ---
-
-
-## 🧭 Recommendations
-
-## ★ PLATFORM IMPROVEMENTS
-
-● Add smart retry system
-
-● Add balance pre-check
-
-● Improve gateway routing
-
-## ★ USER ENGAGEMENT
-
-● Offer personalized service suggestions
-
-● Introduce cashback/loyalty rewards
-
-● Show monthly spending summaries
-
-## ★ LOANS & INSURANCE GROWTH
-
-● Simplify application flow
-
-● Add renewal reminders
-
-● Provide personalized loan eligibility notifications
