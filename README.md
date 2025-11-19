@@ -76,7 +76,26 @@ The objective is to uncover meaningful insights, understand usage behavior, iden
 
 ## 🔍 Dashboard Views
 
-## All Transaction
+★ All Transactions
 
-<img width="1073" height="733" alt="Transaction" src="https://github.com/user-attachments/assets/bb085f39-fcd4-400f-88e7-f23b7ad112e7" />
+<img width="1070" height="745" alt="Transactions" src="https://github.com/user-attachments/assets/a4738894-bfa6-4899-8e39-094ee5f43ea4" />
+
+★ Loan
+
+<img width="1075" height="743" alt="Loan" src="https://github.com/user-attachments/assets/125f3edd-0ce5-4d5d-b0bf-56953fe944fc" />
+
+★ Money Transfer
+
+<img width="1077" height="735" alt="Transfer" src="https://github.com/user-attachments/assets/45d2e9b5-2d4d-4669-bfb9-802f5c4e8417" />
+
+★ Recharge & Bill Payments
+
+<img width="1066" height="728" alt="Reacharge" src="https://github.com/user-attachments/assets/e758f9bc-97d3-4d67-9156-78c03085739e" />
+
+★ User Insights
+
+<img width="1078" height="737" alt="Insurance" src="https://github.com/user-attachments/assets/e655a720-6a7e-4b0e-a4fb-0b2bf0cbe9f6" />
+
+
+
 
