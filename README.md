@@ -1,6 +1,6 @@
 # Phone_Pe_Analysis
 
-📝 Project Overview
+## 📝 Project Overview
 
 This project analyzes user behavior and transaction patterns from the PhonePe digital payments dataset.
 It includes users, transactions, recharges, bill payments, money transfers, loans, and insurance records.
@@ -9,7 +9,7 @@ The objective is to uncover meaningful insights, understand usage behavior, iden
 ---
 
 
-🎯 Objectives
+## 🎯 Objectives
 
 ● Analyze overall PhonePe user behavior and usage trends
 
@@ -29,7 +29,7 @@ The objective is to uncover meaningful insights, understand usage behavior, iden
 
 ---
 
-🔍 Key Insights
+## 🔍 Key Insights
 
 ⭐ USER INSIGHTS ✨
 
