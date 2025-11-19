@@ -28,3 +28,9 @@ The objective is to uncover meaningful insights, understand usage behavior, iden
 ● Prepare a structured, professional project layout for reporting
 
 ---
+
+🔍 Key Insights
+User Insights
+
+● Majority of users fall within the 18–35 age group
+● User onboarding grows steadily, reflecting platform trust and popularity
